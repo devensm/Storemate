@@ -5,13 +5,6 @@ A professional, production-ready storage management platform that helps you uplo
 ![TypeScript](https://img.shields.io/badge/TypeScript-90%25+-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15+-black.svg)
 ![Appwrite](https://img.shields.io/badge/Appwrite-Cloud-pink.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-## 🌐 Live Demo
-
-**[Try StoreMate Now!](https://your-deployment-url.vercel.app/)** 🚀
-
-Experience the app live without any installation required.
 
 ## ✨ Features
 
@@ -176,9 +169,7 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
